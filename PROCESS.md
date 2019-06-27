@@ -21,3 +21,4 @@ __12377775__
 |24-6-2019|Finished all the functionalities of my app and started with cleaning up my code|My plans for the week are cleaning up the code, write missing comments and finish desiging the layouts of the pages.|
 |25-6-2019|Finished cleaning up the code still have to make the layout for a couple of pages|A good update for my app would be that you could make a request to multiple bands and store those requests but that'll be a lot of work for now|
 |26-6-2019||What I shall show in my product-video is: both search features because that is what my app is mostly about, show the login and register function, also show create your band and the request and member functions|
+|27-6-2019|Made the product video (which was pretty hard combining my sounds with the video) and final report for this app, I would like to thank al the TA's and the staff for their help and organization of this minor.||
