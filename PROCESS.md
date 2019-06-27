@@ -1,4 +1,4 @@
-# Final Project Lobook
+# Final Project Logbook
 #### Joost Bankras
 __12377775__
 
