@@ -1,5 +1,7 @@
 # Report of process of the bearch app
 
+link to product video = https://drive.google.com/open?id=1RRwX8oJL5L2zgLepgnlLEd2HH90CeevA
+
 ### In short
 The App I made in the last few weeks, called Bearch, is intended for people searching for a band, or bands searching for a new member. In this App the user should be able to login and register. It should also have a filter function for the band and musicians. The bands and Members should all have an account and this account should be editable by the user himself.
 ![Screenshot_1561634246](https://user-images.githubusercontent.com/47153142/60263353-c2372180-98e0-11e9-88af-3cddb170b6d0.png)
